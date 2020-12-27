@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 77)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg 
+	 xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;" i:viewOrigin="211.3306 744.0659" i:rulerOrigin="0 0" i:pageBounds="0 792 612 0"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="314.868" height="270.688" viewBox="0 0 314.868 270.688" overflow="visible" enable-background="new 0 0 314.868 270.688"
+	 xml:space="preserve">
+	<metadata>
+<rdf:RDF
+      xmlns="http://web.resource.org/cc/"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <Work rdf:about="">
+         <dc:title>Vegetables</dc:title>
+         <dc:description>Vegetables</dc:description>
+         <dc:subject>
+          <rdf:Bag>
+            <rdf:li>food</rdf:li>
+            <rdf:li>vegetable</rdf:li>
+          </rdf:Bag>
+         </dc:subject>
+         <dc:publisher><Agent rdf:about="http://www.openclipart.org/"><dc:title>Open Clip Art Project</dc:title></Agent></dc:publisher>
+         <dc:creator><Agent rdf:about=""><dc:title>ArtFavor</dc:title></Agent></dc:creator>
+         <dc:rights><Agent rdf:about="http://web.resource.org/cc/PublicDomain"><dc:title>Public Domain</dc:title></Agent></dc:rights>
+         <dc:date>2005/10/03</dc:date>
+         <dc:format>image/svg+xml</dc:format>
+         <dc:type>http://purl.org/dc/dcmitype/StillImage</dc:type>
+         <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+      </Work>
+      <License rdf:about="http://web.resource.org/cc/PublicDomain">
+         <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+         <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+         <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </License>
+   </rdf:RDF>
+		<variableSets  xmlns="&ns_vars;">
+			<variableSet  varSetName="binding1" locked="none">
+				<variables></variables>
+				<v:sampleDataSets  xmlns="&ns_custom;" xmlns:v="&ns_vars;"></v:sampleDataSets>
+			</variableSet>
+		</variableSets>
+		<sfw  xmlns="&ns_sfw;">
+			<slices></slices>
+			<sliceSourceBounds  y="473.378" x="211.331" width="314.868" height="270.688" bottomLeftOrigin="true"></sliceSourceBounds>
+		</sfw>
+	</metadata>
+	<switch>
+		<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+			<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+			</i:pgfRef>
+		</foreignObject>
+		<g i:extraneous="self">
+			<g id="Layer_1" i:layer="yes" i:dimmedPercent="50" i:rgbTrio="#4F008000FFFF">
+				<g>
+					
+						<path i:knockout="Off" fill-rule="evenodd" clip-rule="evenodd" fill="#004A3F" stroke="#000000" stroke-width="0.6486" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.4142" d="
+						M145.212,62.948l-39.346,36.927l60.118-23.299l7.803,47.149l16.047-41.215l54.293,41.215L213.683,82.51L255.449,48
+						l-54.295,23.19l-8.352-58.47l-9.453-8.241l-29.234,16.704c11.101,10.881,20.553,26.928,23.85,48.468l-7.144-9.342
+						L137.74,35.911L145.212,62.948z"/>
+					
+						<path i:knockout="Off" fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" stroke="#000000" stroke-width="0.6486" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.4142" d="
+						M225.333,68.224c28.686,0,60.338,10.33,73.196,39.015c24.949,62.097,10.992,104.629-21.321,130.127
+						c-32.202,25.389-83.088,33.851-132.216,28.138c-49.128-5.827-96.606-25.938-122.104-57.482
+						C-2.61,176.48-6.237,133.507,32.45,81.632c35.389-47.591,70.779-47.591,113.532-18.245l-39.346,36.05l58.689-21.871
+						l8.462,45.501l16.377-41.215l55.171,42.423l-31.541-41.874L225.333,68.224z"/>
+					
+						<path i:knockout="Off" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="7.1991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.4142" d="
+						M145.982,63.387C103.229,34.041,67.839,34.041,32.45,81.632c-38.688,51.875-35.06,94.849-9.562,126.391
+						c12.749,15.716,48.139,42.202,82.759,48.029c39.126,17.253,73.637,5.714,89.793-3.517 M144.993,265.504
+						c49.128,5.712,100.014-2.749,132.216-28.138c32.313-25.498,46.271-68.03,21.321-130.127
+						c-12.858-28.686-44.511-39.015-73.196-39.015 M153.236,60.309l-37.808,29.786 M115.428,93.83
+						c17.145-3.735,38.466-12.418,54.293-19.782 M165.435,75.477c1.208,9.782,6.154,23.188,7.364,32.97
+						c0,2.417,1.208,8.574,3.626,9.782c4.286-14.177,7.145-23.519,12.2-37.806c21.981,18.134,41.543,28.904,57.479,44.731
+						c-7.803-12.751-23.848-34.401-30.663-41.105 M211.815,84.049c14.617-12.2,32.643-25.938,44.182-35.389 M156.972,23.053
+						c14.617,17.144,20.663,34.18,20.663,56.161 M184.998,3.6c-12.198,2.417-23.189,9.671-31.652,18.243
+						c8.463,8.572,30.444,0,38.907-6.043v-4.837c0,0-2.418-2.527-3.627-2.527 M192.912,15.907
+						c4.506,18.356,6.154,36.27,8.354,55.394 M248.523,135.155c23.189,36.708,9.232,73.637-16.154,95.507 M145.982,68.553
+						l-9.891-34.951l41.323,34.399 M201.265,71.3l54.184-23.739"/>
+					<path i:knockout="Off" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M136.75,69.432
+						C49.924,9.314,13.327,124.714,13.327,169.666c8.022-61.548,46.161-92.322,114.302-92.322L136.75,69.432z"/>
+				</g>
+			</g>
+		</g>
+	</switch>
+</svg>

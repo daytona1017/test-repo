@@ -1,0 +1,100 @@
+body {
+    margin: 2em;
+}
+
+/* head area */
+.wrapper-head {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    padding: 1em;
+    margin-top: 25px;
+}
+
+.one {
+    justify-self: center;
+}
+
+.one h3 {
+    color: black;
+}
+
+.one h3 span {
+    color: palevioletred;
+}
+
+.two {
+    display: inline-flex;
+    justify-self: center;
+    margin-top: 12px;
+}
+
+.two p {
+ padding-left: 10px;
+}
+
+.three {
+    justify-self: center;
+    margin: 10px 20px;
+}
+
+.three a {
+    border: 1px solid palevioletred;
+    border-radius: 24px;
+    padding: .5em;
+    color: palevioletred;
+    text-decoration: none;
+}
+
+
+/* body area */
+.wrapper-body {
+    display: grid;
+    grid-template-columns:  1fr 1fr;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.f-half {
+justify-self: center;
+
+}
+
+.s-half {
+    margin-top: 15px;
+}
+
+.s-half h1 {
+    font-size: 4em;
+    color: black;
+    font-weight: bold;
+}
+.s-half p {
+    font-size: 1em;
+    color: #333;
+    font-weight: normal;
+}
+
+.s-half button {
+    font-size: 1em;
+    color: #333;
+    font-weight: normal;
+    background: palevioletred;
+    border: palevioletred;
+    border-radius: 15px;
+    padding: 5px 15px;
+}
+/* the feeeeeet */
+
+.footer {
+    display: grid;
+    grid-template-columns:  1fr 1fr;
+}
+
+.middle {
+    justify-self: end;
+}
+
+.end {
+    justify-self: center;
+
+}
