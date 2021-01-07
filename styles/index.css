@@ -7,11 +7,13 @@ body {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
     padding: 1em;
-    margin-top: 25px;
+    margin-top: 10px;
+    padding: 20px 105px;
 }
 
 .one {
     justify-self: center;
+    place-content: center;
 }
 
 .one h3 {
@@ -23,24 +25,41 @@ body {
 }
 
 .two {
-    display: inline-flex;
-    justify-self: center;
-    margin-top: 12px;
+    display: grid;
+    place-content: center;
+    /* text-align: center !important;   */
+    grid-template-columns: repeat(4 , auto );
+    gap: 28px;
+    position: relative;
 }
 
-.two p {
- padding-left: 10px;
-}
+/* .two p {
+ padding-left: 20px;
+} */
+
+.two p .fa{
+    padding-left: 3.7px;
+    font-size: .6em;
+    position: absolute;
+    top: 7.5px;
+   }
 
 .three {
     justify-self: center;
-    margin: 10px 20px;
+    margin: 0;
+    place-content: center;
+    border: 1px solid palevioletred;
+    border-radius: 1.2rem;
+    padding: .5em !important; 
 }
 
 .three a {
-    border: 1px solid palevioletred;
-    border-radius: 24px;
-    padding: .5em;
+  display: "";
+  color: palevioletred;
+  text-decoration: none;
+}
+
+.three a:hover {
     color: palevioletred;
     text-decoration: none;
 }
@@ -49,29 +68,38 @@ body {
 /* body area */
 .wrapper-body {
     display: grid;
-    grid-template-columns:  1fr 1fr;
-    margin-top: 150px;
-    margin-bottom: 150px;
+    grid-template-columns:  auto auto;
+    padding-top: 70px;
+    align-self: flex-start;
+    margin-bottom: 100px;
 }
 
-.f-half {
-justify-self: center;
+.f-half  {
+display: grid;
+justify-self: end;
+align-self: start;
+
 
 }
 
 .s-half {
-    margin-top: 15px;
+/* display: grid; */
+margin-top: 85px;
+/* justify-self: start; */
 }
 
 .s-half h1 {
     font-size: 4em;
     color: black;
     font-weight: bold;
+    padding-bottom: 20px;
+    line-height: 62px;
 }
 .s-half p {
     font-size: 1em;
-    color: #333;
+    color: #838282;
     font-weight: normal;
+    line-height: 8px;
 }
 
 .s-half button {
@@ -80,8 +108,9 @@ justify-self: center;
     font-weight: normal;
     background: palevioletred;
     border: palevioletred;
-    border-radius: 15px;
-    padding: 5px 15px;
+    color: #fff;
+    border-radius: 20px;
+    padding: 7px 22px 8px;
 }
 /* the feeeeeet */
 
@@ -94,7 +123,19 @@ justify-self: center;
     justify-self: end;
 }
 
+.middle p {
+    font-size: 10px;
+    color: #838282;
+}
+
+.middle p .fa {
+    font-size: 12px;
+}
+
 .end {
     justify-self: center;
+}
 
+.end a i{
+    border-radius: 1px;
 }
